@@ -1,0 +1,28 @@
+name: composites
+favicon: null
+layout_spectrum: 0.4177006126847118
+typography_spectrum: 0.14990088623017073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5790704567916691
+  lightness: 0.41706219664774835
+  saturation: 0.6289174256380647
+  rhythmicContrast: 0.2944285881239921
+purpose: []
